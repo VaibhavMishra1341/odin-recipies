@@ -1,0 +1,23 @@
+* {
+  background-color: Pink #fbeaeb;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #df678c;
+}
+
+h1 {
+  color: rgb(21, 184, 184);
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50px;
+}
+.mainpage {
+  margin-left: 40%;
+}
